@@ -1,0 +1,8 @@
+{
+  "name": "Simple Tab Page",
+  "manifest_version": 2,
+  "version": "1",
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  }
+}
